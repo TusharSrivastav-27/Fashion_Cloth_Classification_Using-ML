@@ -4,6 +4,7 @@ In this project Fashion_Cloth_Classification I have have used Fashion MNIST Data
 It works according to the table given by MNIST_Fashion:
 
 Label 	Description
+
 0 	    T-shirt/top
 
 1 	    Trouser
