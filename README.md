@@ -3,27 +3,27 @@ In this project Fashion_Cloth_Classification I have have used Fashion MNIST Data
 
 It works according to the table given by MNIST_Fashion:
 
-Label 	Description
+Table:-
 
-0 	    T-shirt/top
+0 ->	    T-shirt/top
 
-1 	    Trouser
+1 ->	    Trouser
 
-2 	    Pullover
+2 ->	    Pullover
 
-3 	    Dress
+3 ->	    Dress
 
-4 	    Coat
+4 ->	    Coat
 
-5 	    Sandal
+5 ->	    Sandal
 
-6 	    Shirt
+6 ->	    Shirt
 
-7 	    Sneaker
+7 ->	    Sneaker
 
-8 	    Bag
+8 ->	    Bag
 
-9 	    Ankle boot
+9 ->	    Ankle boot
 
 This is a dataset of 60,000 28x28 grayscale images of 10 fashion categories, along with a test set of 10,000 images.
 
