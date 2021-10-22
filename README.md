@@ -27,4 +27,4 @@ Table:-
 
 This is a dataset of 60,000 28x28 grayscale images of 10 fashion categories, along with a test set of 10,000 images.
 
-*Our model will show 0 if it predicts that the cloth is T-shirt/top, it will show 1 if it predicts it is trouser and like that.*
+*Our model will show (0)if it predicts that the cloth is T-shirt/top, it will show (1) if it predicts it is trouser and like that.*
